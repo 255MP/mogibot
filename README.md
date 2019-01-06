@@ -4,7 +4,7 @@ MogiBot was originally written using [NodeJS](https://nodejs.org) and [DiscordJs
 
 # Contribute
 
-Feel free to make pull request to make changes/improvements to it.
+Feel free to make a pull request to make changes/improvements to it.
 
 # Disclaimer
 
