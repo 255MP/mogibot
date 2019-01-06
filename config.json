@@ -1,0 +1,15 @@
+{
+	"token": "<token here>",
+	"prefix": "!",
+	"room_size": 12,
+	"max_room_size": 15,
+	"normal_message_delete_rate": 5000,
+	"long_message_delete_rate": 10000,
+	"inactive_message_delete_rate": 300000,
+	"inactive_message_after": 1500000,
+	"remove_from_mogi_after": 1800000,
+	"inactive_check_rate": 60000,
+	"minimum_uptime": 86400000,
+	"minimum_time_to_end_after_full": 2400000,
+	"owner": "<discordId here>"
+}
